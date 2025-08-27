@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @santoshreddy-1362004
-- 👀 I’m interested in ..development.
+- 👀 I’m interested in ..devops and development.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..santosh1362004@gmail.com.
