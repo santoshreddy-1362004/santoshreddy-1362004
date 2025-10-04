@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Santosh Reddy  
 
-🚀 **Full-Stack Developer | Open-Source Contributor | Backend Enthusiast**  
+🚀 **Full-Stack Developer | Open-Source Contributor | Backend Enthusiast | Devops Learner**  
 💡 Skilled in **MERN, Java, Python, DevOps**  
 🌍 Passionate about building scalable apps & contributing to open source  
 
